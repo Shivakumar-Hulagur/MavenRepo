@@ -76,7 +76,7 @@
   </properties>
   <distributionManagement>
     <repository>
-        <id>Shivakumar-Hulagur</id>
+        <id>github</id>
         <url>https://github.com/Shivakumar-Hulagur/MavenRepo.git</url>
     </repository>
 </distributionManagement>
